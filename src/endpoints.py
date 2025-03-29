@@ -8,7 +8,7 @@ def getPublishUrl(assetTypeName, name, creatorId, isGroup):
         "https://www.roblox.com/ide/publish/uploadnewanimation?"
         f"assetTypeName={ assetTypeName }"
         f"&name={ name }"
-        "&description=kartfr🤑🤑"
+        "&description=Forgium Studios Animation"
         "&AllID=1"
         "&ispublic=False"
         "&allowComments=True"
